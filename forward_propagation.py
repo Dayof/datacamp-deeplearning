@@ -1,3 +1,5 @@
+# multiply - add process, dot product
+
 import numpy as np
 
 input_data = np.array([2, 3])
